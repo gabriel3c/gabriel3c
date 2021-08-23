@@ -1,4 +1,6 @@
 ### <h2 align='center'> Opa, 👋 eu sou o Gabriel</h2>
+
+<br>
  
 <div style="display: inline_block">
   Estudando e aprendendo uma coisa nova todo dia sobre                
