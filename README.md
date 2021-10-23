@@ -1,7 +1,7 @@
 ### <h2> Opa, 👋 eu sou o Gabriel! Tudo bem com você?</h2>
 
-<p>Todos as tecnologias que eu venho estudando e praticando estão aqui no meu perfil. </p>
-<p>Meu <a href="https://gabriel3c.github.io/portfolio/">portfólio<a> com alguns projetos.</p>
+<p>Todos as tecnologias que eu venho estudando e praticando estão aqui no meu perfil e aqui meu <a href="https://gabriel3c.github.io/portfolio/">portfólio<a> com alguns projetos. </p>
+<p></p>
 
 <br>
  
