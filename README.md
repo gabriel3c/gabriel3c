@@ -1,25 +1,32 @@
-### <h2 align='center'> Opa, 👋 eu sou o Gabriel</h2>
+### <h2> Opa, 👋 eu sou o Gabriel,</h2>
+
+<p>Todos as tecnologias que eu venho estudando e praticando estão aqui no meu perfil. </p>
+<p>Meu <a href="https://gabriel3c.github.io/portfolio/">portfólio<a> com alguns projetos.</p>
 
 <br>
  
-<p>Aprimorando e aprendendo algo novo todo dia sobre</p>
+<p style="
+    margin: 0;
+">Aprimorando e aprendendo algo novo todo dia sobre:</p>
 
 <div style="display: inline_block">
   <img align="center" alt="Js-Logo" height= "25" width="110" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="HTML5-Logo" height= "25"  width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS-Logo" height= "25"  width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img align="center" alt="CSS-Logo" height= "25"  width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="React-Log" height="25" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
 <br>
 <br>
 
-<p>Tenho muito interesse também<p/>
+<p>Tenho muito interesse também:<p/>
 
 <div style="display: inline_block">
-  <img align="center" alt="React-Log" height="25" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Node-Log" height="25" width="110" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="Sass" height="25" width="80" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
+ <img align="center" alt="" height="25" width="150" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  
+  <img align="center" alt="Node-Log" height="25" width="100" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="Sass" height="25" width="70" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Postman" height="25" width="90" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
 </div 
   
