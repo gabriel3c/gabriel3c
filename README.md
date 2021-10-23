@@ -1,4 +1,4 @@
-### <h2> Opa, 👋 eu sou o Gabriel, tudo bem?</h2>
+### <h2> Opa, 👋 eu sou o Gabriel! Tudo bem com você?</h2>
 
 <p>Todos as tecnologias que eu venho estudando e praticando estão aqui no meu perfil. </p>
 <p>Meu <a href="https://gabriel3c.github.io/portfolio/">portfólio<a> com alguns projetos.</p>
